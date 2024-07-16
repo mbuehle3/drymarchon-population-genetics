@@ -1,0 +1,1 @@
+evalAdmix -plink ./data/all-asm-02-filtered-03.ADMIX -fname ./run-01/all-asm-02-filtered-03.ADMIX.5.P -qname ./run-01/all-asm-02-filtered-03.ADMIX.5.Q -o evaldamiOut-5.corres -P 8
