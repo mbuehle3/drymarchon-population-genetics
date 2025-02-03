@@ -1,0 +1,14 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf sorted.vcf
+	--max-missing 0.8
+	--out no_missing_data
+	--recode
+
+After filtering, kept 116 out of 116 Individuals
+Outputting VCF file...
+After filtering, kept 2498 out of a possible 3151 Sites
+Run Time = 1.00 seconds

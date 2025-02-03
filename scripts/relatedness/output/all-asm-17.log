@@ -1,0 +1,13 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/mbuehle3/Dropbox/dissertation/lab-notebooks/drymarchon/dpg-data/data/all-asm-17-noMissing-OCIC/all-asm-17-noMissingc.vcf
+	--out ./output/all-asm-17
+	--relatedness2
+
+After filtering, kept 67 out of 67 Individuals
+Outputting Individual Relatedness
+After filtering, kept 4075 out of a possible 4075 Sites
+Run Time = 0.00 seconds
